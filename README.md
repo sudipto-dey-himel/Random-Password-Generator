@@ -1,4 +1,3 @@
-# Random-Password-Generator
 # Random Password Generator
 
 A simple Java Swing application to generate random passwords and copy them to the clipboard.
@@ -36,13 +35,29 @@ A simple Java Swing application to generate random passwords and copy them to th
 
 ### Some Images for better understand : 
 
-![alt text](image-5.png)
+<img width="326" alt="image" src="https://github.com/sudipto-dey-himel/Random-Password-Generator/assets/136897150/9b82a242-e006-4352-b36b-344db5659809">
 
-![alt text](image-6.png)
 
-![alt text](image-7.png)
 
-![alt text](image-4.png)
+
+
+
+<img width="323" alt="image" src="https://github.com/sudipto-dey-himel/Random-Password-Generator/assets/136897150/a652d041-c6af-4658-be3c-3d8a15a1002a">
+
+
+
+
+
+
+<img width="431" alt="image" src="https://github.com/sudipto-dey-himel/Random-Password-Generator/assets/136897150/15c71c69-7d82-4bf4-8f72-b215775cf744">
+
+
+
+
+
+
+<img width="385" alt="image" src="https://github.com/sudipto-dey-himel/Random-Password-Generator/assets/136897150/9b543681-c8ab-46ab-b381-6de911d5884a">
+
 
 # Contributing
 Contributions are welcome! Feel free fork the repo and submit a pull requests.
